@@ -1,0 +1,25 @@
+# Web framework
+fastapi
+uvicorn
+python-multipart
+
+# LangChain
+langchain
+langchain-groq
+langchain-community
+langchain-huggingface
+
+# PDF reading
+pymupdf
+
+# Embeddings
+sentence-transformers
+
+# Vector database
+chromadb
+
+# Frontend
+streamlit
+
+# Utilities
+python-dotenv
