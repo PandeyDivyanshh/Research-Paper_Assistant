@@ -5,7 +5,7 @@
 
 
 # User Flow 
-
+```
 User uploads PDF
       ↓
 Extract text from PDF        ← PyMuPDF / pdfplumber
@@ -25,9 +25,10 @@ Semantic search in ChromaDB   ← find top 3 matching chunks
 Send chunks + question → Groq LLM
       ↓
 Final answer returned
+```
 
 # Project Structure 
-
+```
 research-paper-qa/
 │
 ├── .env                   
@@ -52,4 +53,4 @@ research-paper-qa/
 │
 ├── uploads/               
 └── chroma_db/           
-
+```
